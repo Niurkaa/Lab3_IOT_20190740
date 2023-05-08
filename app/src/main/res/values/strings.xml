@@ -6,4 +6,10 @@
         <item> Femenino </item>
         <item> Masculino</item>
     </string-array>
+    <string-array name="origen">
+        <item>Lince</item>
+        <item>Magdalena</item>
+        <item>Jesús María</item>
+        <item>San Isidro</item>
+    </string-array>
 </resources>
